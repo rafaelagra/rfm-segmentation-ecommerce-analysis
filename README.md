@@ -63,16 +63,10 @@ As recomendações são direcionadas para cada segmento, garantindo o máximo re
 | **Looker Studio** | Criação do Dashboard interativo e final (Visualização e Insights). |
 | **GitHub** | Versionamento e portfólio. |
 
-### Acessar a Análise Completa:
-
-* **[Notebook de Análise (Python)](./notebooks/rfm_segmentacao_ecommerce.ipynb)**: Script com todo o código (Limpeza, Cálculo RFM e Segmentação).
-* **[Dashboard Interativo (Visualização Final)](./dashboard/RFM_Segmentation_Analysis___E-commerce.pdf)**: Imagem do painel de resultados e insights.
-* **[Dados Processados (CSV)](./data/rfm_segmentacao_final.csv)**: Dataset final com as colunas de Scores e Segmento.
-
 ---
 
 ## 👤 Autor
 
-Seu Nome Completo
+Rafael Agra
 
-* **LinkedIn:** [Seu Link do LinkedIn]
+* **LinkedIn:** [https://www.linkedin.com/in/rafael-agra-201005355/]
