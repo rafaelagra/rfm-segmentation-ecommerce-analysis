@@ -1,4 +1,4 @@
-# 👑 Análise de Segmentação de Clientes RFM | E-commerce (Projeto Carro-Chefe)
+# 👑 Análise de Segmentação de Clientes RFM | E-commerce 
 
 [![Status](https://img.shields.io/badge/Status-Finalizado-success.svg)]()
 [![Tecnologias](https://img.shields.io/badge/Tecnologias-Python%20%7C%20Looker%20Studio-blue.svg)]()
